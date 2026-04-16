@@ -1,4 +1,4 @@
-# VSMarketplace Badges
+gh repo clone KamaoKat/VSMarketplace-Badges# VSMarketplace Badges
 
 [![Version](https://vsmarketplacebadges.dev/version/xuangeaha.vsmarketplace-badges.svg?&colorB=orange)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.vsmarketplace-badges) [![Installs](https://vsmarketplacebadges.dev/installs/xuangeaha.vsmarketplace-badges.svg)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.vsmarketplace-badges) [![Downloads](https://vsmarketplacebadges.dev/downloads/xuangeaha.vsmarketplace-badges.svg)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.vsmarketplace-badges) [![Rating Short](https://vsmarketplacebadges.dev/rating-short/xuangeaha.vsmarketplace-badges.svg)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.vsmarketplace-badges) [![Rating Star](https://vsmarketplacebadges.dev/rating-star/xuangeaha.vsmarketplace-badges.svg)](https://marketplace.visualstudio.com/items?itemName=xuangeaha.vsmarketplace-badges)
 
